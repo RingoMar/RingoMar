@@ -1,8 +1,5 @@
 # RINGO
 
-<img src="https://github.com/RingoMar/RingoMar/assets/28763332/09bad35d-66d4-49ae-8030-beaa519ad1b8" alt="drawing" style="width:50%;"/>
-
-
                      ↑↑ ↑↑↑↑↑                                                ↑↑↑↑↑↑↑↑↑              
              ↑↑↑↑↑↑↑↑↑  ↑↑↑↑↑↑↑↑                                          ↑↑↑↑↑↑↑  ↑↑↑↑             
                ↑↑↑↑↑↑↑  ↑↑↑↑↑↑↑↑              ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑         ↑↑↑↑↑↑↑↑   ↑↑↑↑            
